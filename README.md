@@ -14,4 +14,18 @@ https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/arra
 3. Intersection of Two Arrays II
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/
 
+4. Rotate Arrays
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/
 
+5.Contains Duplicate
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/
+
+6. Single Number
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/
+
+7. Plus One
+
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/
+
+8.Fibonacci Sequence
+https://leetcode.com/problems/fibonacci-number/
