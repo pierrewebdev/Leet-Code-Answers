@@ -24,8 +24,26 @@ https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/arra
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/
 
 7. Plus One
-
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/
 
 8.Fibonacci Sequence
 https://leetcode.com/problems/fibonacci-number/
+
+9. Reverse Linked List
+https://leetcode.com/problems/reverse-linked-list/
+
+10. Reverse Integer
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/
+
+11. First Unique Character
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/
+
+12.Valid Palindrome
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/
+
+13. Count and Say
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/
+
+14. Longest Common Prefix
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/
+
