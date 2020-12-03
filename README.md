@@ -47,3 +47,9 @@ https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/str
 14. Longest Common Prefix
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/
 
+15. Validate Binary Search Tree
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/
+
+16. Maximum Depth of Binary Tree
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/
+
