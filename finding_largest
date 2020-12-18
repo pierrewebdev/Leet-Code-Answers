@@ -1,0 +1,26 @@
+//Largest Number by two times
+//Instructions
+/*
+  Given a list of integers nums, return whether the largest number is bigger than the second-largest number by more than two times.
+*/
+
+//Pseudocode
+//Go through each value in the array and look for the two largest numbers
+//store the two largest numbers
+//compare the larger number to the result of second largest number * 2
+
+class Solution {
+    solve(nums) {
+        if(nums.length < 1){
+            return false;
+        }
+        
+        nums.sort( (a,b) => a-b);
+        
+        let largestNum = nums[nums.length-1];
+        let secondLargestNum = nums[nums.length-2];
+        
+        return largestNum > secondLargestNum * 2 ? true : false;
+        
+    }
+}
